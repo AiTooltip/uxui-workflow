@@ -1,6 +1,11 @@
 ---
 name: uxui-workflow
 description: Run the full requirements → UX → UI workflow for a new product, app, website or feature. Phase 1 interviews the user and frames the problem (requirements.md). Phase 2 explores three solution concepts and maps the chosen one (ux-brief.md, design-brief.md). Phase 3 designs the UI with the rule of three on a Claude Design canvas in the conversation (3 directions, pick one, 3 variations, pick one), then locks a design system. The user makes every decision; the AI does the legwork. Use when the user wants to start a new project or design something from scratch, says "UX/UI workflow", "design workflow", "double diamond" or "requirements to UI", or invokes /uxui-workflow. Also use to resume the workflow when requirements.md or design-brief.md already exists.
+license: MIT. Complete terms in LICENSE.txt
+metadata:
+  author: Jad (AI Tooltip)
+  version: "1.0"
+  guide: https://aitooltip.com/uxui-skill
 ---
 
 # UX/UI workflow: requirements → UX → UI

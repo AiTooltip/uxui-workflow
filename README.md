@@ -4,6 +4,8 @@ One skill that takes a product idea from requirements to finished UI in three ph
 
 The rule behind it: **the AI does the manual work, not the critical thinking.** It finds the questions, generates the options and writes everything up. You make every decision.
 
+Made by Jad at [AI Tooltip](https://aitooltip.com). **[Read the full guide →](https://aitooltip.com/uxui-skill)**
+
 ## The three phases
 
 Each phase goes wide, then narrows down.
@@ -59,6 +61,7 @@ You can also jump to a phase directly, for example `/uxui-workflow ui` if you al
 ```
 uxui-workflow/
 ├── SKILL.md                  ground rules, where to start, the stops between phases
+├── LICENSE.txt
 └── phases/
     ├── 1-requirements.md
     ├── 2-ux-discovery.md
@@ -71,3 +74,17 @@ Claude reads only the file for the phase it's in, so the UI instructions don't l
 
 - **Phase 3 uses Claude Design canvases inside Claude.** If your account can't create them, the skill builds each option as an HTML file you can compare side by side.
 - **A default design system changes round 1.** If you have one set as default, the canvas uses it, so the 3 directions share its colors and type and differ in layout, hierarchy and signature instead. Ask the skill to design without it if you want the full range.
+
+## About
+
+Made by **Jad** at **AI Tooltip**.
+
+- Guide for this skill: [aitooltip.com/uxui-skill](https://aitooltip.com/uxui-skill)
+- YouTube: [@AI.Tooltip](https://www.youtube.com/@AI.Tooltip)
+- Website: [aitooltip.com](https://aitooltip.com)
+
+If the skill helps you, a ⭐ on this repo helps other people find it.
+
+## License
+
+[MIT](LICENSE). Use it, change it and share it. Keep the copyright notice when you do.
